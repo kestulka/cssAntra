@@ -29,6 +29,11 @@
     background-color: rgb(227, 230, 109);
 }
 
+img{
+    width: 350px;
+    height: 250px;
+}
+
 figure{
     display:inline-block;
     color: black;
@@ -37,10 +42,7 @@ figure{
     text-align: center;
 }
 
-figure img{
-    vertical-align: top;
-}
 
-.abc{
+body{
     background-color: rgb(222, 222, 67);
 }
